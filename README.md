@@ -5,8 +5,8 @@ An end-to-end Excel analytics project on the TheLook eCommerce dataset: Power Qu
 **Download the workbook:** [Google Drive folder](https://drive.google.com/drive/folders/1lT5uKfJMP-r4hS9GgCMXlUrxazWDR3CY?usp=sharing)
 (The file is large because of the embedded Data Model, so it is not stored in the repo itself. Download it and open it in desktop Excel to use the slicers and pivot charts. Google Sheets does not support them.)
 
-![Marketing Dashboard](screenshots/marketing-dashboard.png)
-![Supply Chain Dashboard](screenshots/supply-chain-dashboard.png)
+![Marketing Dashboard](marketing-dashboard.PNG)
+![Supply Chain Dashboard](supply-chain-dashboard.PNG)
 
 ## Business problem
 
