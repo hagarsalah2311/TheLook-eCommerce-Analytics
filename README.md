@@ -75,6 +75,7 @@ TheLook eCommerce dataset (Kaggle / Google BigQuery public data). Synthetic data
 ## Author
 
 **Hagar Salah**
+
 Email: hagarsalah2311@gmail.com
 
 *Built as Sprint 1 of the INSTANT Data Analysis training.*
